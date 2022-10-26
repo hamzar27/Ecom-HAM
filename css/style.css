@@ -1,0 +1,47 @@
+.cg{
+    width:1700px;
+}
+.m a{
+    color: black;
+}
+.m span{
+    border-right: 1px solid gray;
+    padding-right: 100px;
+    padding-left: 100px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.m a:hover{
+    color: gray;
+    text-decoration: none;
+}
+.connexion{
+    display: inline;
+    float: right;
+    margin-top: 25px;
+}
+.connexion a{
+    color: gray;
+}
+.connexion a:hover{
+    color: black;
+    text-decoration: none;
+}
+.headerc a{
+    color: black;
+}
+.headerc a:hover{
+    text-decoration: none;
+    color: gray;
+}
+.menu{
+    display: inline;
+    float: right;
+}
+.contenu{
+    display: inline;
+    float: right;
+}
+.footer{
+    font-weight: bold;
+}
